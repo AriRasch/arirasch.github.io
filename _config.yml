@@ -23,7 +23,7 @@ name                     :
 description              : 
 domain                   : "arirasch.github.io"  # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url                      : "https://arirasch.github.io"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/personal-website/"  # the subpath of your site, e.g. "/blog"
+baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "arirasch/arirasch.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
