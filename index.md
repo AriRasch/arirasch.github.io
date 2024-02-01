@@ -15,4 +15,4 @@ To achieve my goals, I am one of the main designers of a holistic code *Generati
 
 3. [Host Code Abstract (HCA)](https://hca-project.org) -- a high-level programming abstraction that simplifies implementing and optimizing so-called *host code* which is required in modern parallel programming approaches (e.g., CUDA and OpenCL) to execute code on the devices of distributed, heterogeneous systems.
 
-You can find my CV [here](assets/files/cv_schulze.pdf).
+You can find my CV [here](assets/files/cv_rasch.pdf).
