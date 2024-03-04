@@ -5,7 +5,7 @@ author_profile: true
 
 # About Me
 
-I am a researcher at the University of Münster in Germany. My work focuses on compiler technologies -- code generation and optimization -- as well as programming language design for multi- and many-core architectures, such as GPU and CPU, based on formal methods. My overall research goal is to provide *Performance*, *Portability*, and *Productivity* for data-parallel computations with particular focus on computations relevant for deep learning platforms (e.g., linear algebra routines and stencil computations).
+I am a researcher at the [University of Münster](https://www.uni-muenster.de/en/) in Germany. My work focuses on compiler technologies -- code generation and optimization -- as well as programming language design for multi- and many-core architectures, such as GPU and CPU, based on formal methods. My overall research goal is to provide *Performance*, *Portability*, and *Productivity* for data-parallel computations with particular focus on computations relevant for deep learning platforms (e.g., linear algebra routines and stencil computations).
 
 To achieve my goals, I am one of the main designers of a holistic code *Generation* & *Optimization* & *Execution* approach, consisting of three major sub-projects:
 
