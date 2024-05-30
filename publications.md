@@ -8,12 +8,12 @@ author_profile: true
 You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=njDb_rMAAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
 
 1.  A. Rasch \\
-    [(De/Re)-Compositions of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
+    [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
     *ACM Transactions on Programming Languages and Systems (TOPLAS 2024)*\\
     <a href="../assets/files/publications/toplas24/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/toplas24/paper.pdf)
 
 1.  A. Rasch \\
-    [Full Version: (De/Re)-Compositions of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://arxiv.org/abs/2405.05118) \\
+    [Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://arxiv.org/abs/2405.05118) \\
     *arXiv 2024*\\
     <a href="../assets/files/publications/arxiv24/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper.pdf)    
 
