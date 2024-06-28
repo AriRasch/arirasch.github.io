@@ -5,38 +5,42 @@ author_profile: true
 
 # Selected Talks
 
+1.  [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms]([https://llvm.swoogo.com/2024eurollvm](https://dl.acm.org/journal/toplas)) \\
+    *European LLVM Developers' Meeting (EuroLLVM 2024); Vienna, Austria* \\
+    <a href="../assets/files/slides/pldi24/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/pldi24/slides.pdf)
+
 1.  [Linalg vs MDH: A Comparison of two MLIR Dialects](https://llvm.swoogo.com/2024eurollvm) \\
     *European LLVM Developers' Meeting (EuroLLVM 2024); Vienna, Austria* \\
-    <a href="../assets/files/slides/eurollvm24/talk_eurollvm24.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/eurollvm24/talk_eurollvm24.pdf)
+    <a href="../assets/files/slides/eurollvm24/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/eurollvm24/slides.pdf)    
 
-2.  [Code Generation & Optimization for Deep-Learning Computations via Multi-Dimensional Homomorphisms](https://www.c4ml.org) \\
+3.  [Code Generation & Optimization for Deep-Learning Computations via Multi-Dimensional Homomorphisms](https://www.c4ml.org) \\
     *Compilers for Machine Learning (C4ML 2024); Edinburgh, Scotland* \\
     <a href="../assets/files/slides/c4ml24/c4ml24_talk.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/c4ml24/c4ml24_talk.pdf)
 
-3.  [Array Programming via Multi-Dimensional Homomorphisms](https://pldi23.sigplan.org/home/ARRAY-2023) \\
+4.  [Array Programming via Multi-Dimensional Homomorphisms](https://pldi23.sigplan.org/home/ARRAY-2023) \\
     *ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2023)*; *Orlando FL, USA*\\
     <a href="../assets/files/slides/pldi23/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/pldi23/slides.pdf)
     <a href="https://www.youtube.com/watch?v=FAwgO86b6oo"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=FAwgO86b6oo)
 
-4.  [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://dl.acm.org/doi/abs/10.1145/3578360.3580269) \\
+5.  [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://dl.acm.org/doi/abs/10.1145/3578360.3580269) \\
     *ACM SIGPLAN International Conference on Compiler Construction (CC 2023)*; *Montreal, Canada*\\
     <a href="../assets/files/slides/cc23/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/cc23/slides.pdf)
 
-5.  [Auto-Tuning Framework (ATF)](https://www.lorentzcenter.nl/generic-autotuning-technology-for-gpu-applications.html) \\
+6.  [Auto-Tuning Framework (ATF)](https://www.lorentzcenter.nl/generic-autotuning-technology-for-gpu-applications.html) \\
     *Generic Autotuning Technology for GPU Applications (Lorentz Center 2022)*; *Leiden, Netherlands*\\
     <a href="../assets/files/slides/lorentz22/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/lorentz22/slides.pdf)
 
-6.  [Efficient Auto-Tuning of Parallel Programs with Interdependent Tuning Parameters via Auto-Tuning Framework (ATF)](https://dl.acm.org/doi/abs/10.1145/3427093) \\
+7.  [Efficient Auto-Tuning of Parallel Programs with Interdependent Tuning Parameters via Auto-Tuning Framework (ATF)](https://dl.acm.org/doi/abs/10.1145/3427093) \\
     *International Conference on High-Performance Embedded Architectures and Compilers (HiPEAC 2021)*; *online event*\\
     <a href="../assets/files/slides/hipeac21/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/hipeac21/slides.pdf)
     <a href="https://www.youtube.com/watch?v=PRUbf1R-lZ0"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=PRUbf1R-lZ0)
 
-7.  [Using MLIR for Multi-Dimensional Homomorphisms](https://groups.google.com/a/tensorflow.org/g/mlir/c/CxFj0UKBBRw) \\
+8.  [Using MLIR for Multi-Dimensional Homomorphisms](https://groups.google.com/a/tensorflow.org/g/mlir/c/CxFj0UKBBRw) \\
     *Google SIG MLIR Open Design Meeting 2020*; *online event*\\
     <a href="../assets/files/slides/google20/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/google20/slides.pdf)
     <a href="https://www.youtube.com/watch?v=RQR_9tHscMI"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=RQR_9tHscMI)
 
-8.  [md_stencil: High-Performance Stencil Computations on CPU and GPU via Multi-Dimensional Homomorphisms](https://pact20.cc.gatech.edu/acm-src/) \\
+9.  [md_stencil: High-Performance Stencil Computations on CPU and GPU via Multi-Dimensional Homomorphisms](https://pact20.cc.gatech.edu/acm-src/) \\
     *International Conference on Parallel Architectures and Compilation Techniques (PACT 2020)*; *online event*\\
     <a href="../assets/files/slides/pact20/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/pact20/slides.pdf)
     <a href="https://www.youtube.com/watch?v=DGWjHudmkUc&t=4s"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=DGWjHudmkUc&t=4s)
