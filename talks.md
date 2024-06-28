@@ -6,7 +6,7 @@ author_profile: true
 # Selected Talks
 
 1.  [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
-    *European LLVM Developers' Meeting (EuroLLVM 2024); Vienna, Austria* \\
+    *ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2024); Copenhagen, Denmark* \\
     <a href="../assets/files/slides/pldi24/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/pldi24/slides.pdf)
 
 1.  [Linalg vs MDH: A Comparison of two MLIR Dialects](https://llvm.swoogo.com/2024eurollvm) \\
