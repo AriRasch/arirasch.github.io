@@ -9,7 +9,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  **A. Rasch** \\
     [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
-    *ACM Transactions on Programming Languages and Systems (TOPLAS 2024),  original work (presented at PLDI’24 conference)*\\
+    *ACM Transactions on Programming Languages and Systems (TOPLAS 2024 -- original work, presented at PLDI’24 conference)*\\
     <a href="../assets/files/publications/toplas24/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/toplas24/paper.pdf)
 
 1.  **A. Rasch** \\
@@ -25,7 +25,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  **A. Rasch**, R. Schulze, M. Steuwer, S. Gorlatch \\
     [Efficient Auto-Tuning of Parallel Programs With Interdependent Tuning Parameters via Auto-Tuning Framework (ATF)](https://dl.acm.org/doi/abs/10.1145/3427093) \\
-    *ACM Transactions on Architecture and Code Optimization (TACO 2021), original work (presented at HiPEAC'21 conference)*\\
+    *ACM Transactions on Architecture and Code Optimization (TACO 2021 -- original work, presented at HiPEAC'21 conference)*\\
     <a href="../assets/files/publications/taco21/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/taco21/paper.pdf)
 
 
