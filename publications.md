@@ -7,6 +7,11 @@ author_profile: true
 
 You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=njDb_rMAAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
 
+1.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
+    [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927) \\
+    *arXiv 2024*\\
+    <a href="../assets/files/publications/arxiv24/paper_2.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper_2.pdf)
+
 1.  **A. Rasch** \\
     [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
     *ACM Transactions on Programming Languages and Systems (TOPLAS 2024 -- original work, presented at PLDI’24 conference)*\\
@@ -15,7 +20,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 1.  **A. Rasch** \\
     [Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://arxiv.org/abs/2405.05118) \\
     *arXiv 2024*\\
-    <a href="../assets/files/publications/arxiv24/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper.pdf)    
+    <a href="../assets/files/publications/arxiv24/paper_1.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper_2.pdf)    
 
 1.  **A. Rasch**, R. Schulze, D. Shabalin, A. Elster, S. Gorlatch, M. Hall \\
     [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://dl.acm.org/doi/abs/10.1145/3578360.3580269) \\
