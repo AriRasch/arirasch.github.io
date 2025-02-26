@@ -10,7 +10,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [pyATF: Constraint-Based Auto-Tuning in Python](https://dl.acm.org/doi/10.1145/3708493.3712682) \\
     *ACM SIGPLAN International Conference on Compiler Construction (CC 2025)*\\
-    <a href="../assets/files/publications/cc25/paper_1.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/cc25/paper_1.pdf)
+    <a href="../assets/files/publications/cc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/cc25/paper.pdf)
 
 1.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
     [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927) \\
