@@ -5,10 +5,16 @@ author_profile: true
 
 # Selected Posters
 
+1.  **A. Rasch**, R. Schulze, S. Gorlatch \\
+    [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](https://www.c4ml.org) \\
+    *Compilers for Machine Learning (C4ML 2025)*; *Las Vegas NV, USA*\\
+    <a href="../assets/files/poster/c4ml25/poster.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Poster](../assets/files/poster/c4ml25/poster.pdf)
+
 1.  R. Schulze, **A. Rasch**, S. Gorlatch \\
     [Coded Generation & Optimization for Deep-Learning Computations on GPUs via Multi-Dimensional Homomorphisms](https://sc21.supercomputing.org/proceedings/tech_poster/) \\
     *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2021)*; ***Best Poster Finalist***; *St. Louis MO, USA*\\
     <a href="../assets/files/poster/sc21/poster.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Poster](../assets/files/poster/sc21/poster.pdf)
+
 
 1.  **A. Rasch** \\
     [md_stencil: High-Performance Stencil Computations on CPU and GPU via Multi-Dimensional Homomorphisms](https://pact20.cc.gatech.edu/acm-src/) \\
