@@ -25,7 +25,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 1.  **A. Rasch** \\
     [Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://arxiv.org/abs/2405.05118) \\
     *arXiv 2024*\\
-    <a href="../assets/files/publications/arxiv24/paper_1.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper_2.pdf)    
+    <a href="../assets/files/publications/arxiv24/paper_1.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper_1.pdf)    
 
 1.  **A. Rasch**, R. Schulze, D. Shabalin, A. Elster, S. Gorlatch, M. Hall \\
     [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://dl.acm.org/doi/abs/10.1145/3578360.3580269) \\
