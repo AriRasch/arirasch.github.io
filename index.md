@@ -17,4 +17,4 @@ To achieve my goals, I am one of the main designers of a holistic code *Generati
 
 You can find my CV [here](assets/files/cv_rasch.pdf).
 
-My PhD Thesis is available [here](assets/files/phd_rasch.pdf), and my Diploma Thesis [here](assets/files/diploma_rasch.pdf) (german).
+PhD Thesis is available [here](assets/files/phd_rasch.pdf); Diploma Thesis [here](assets/files/diploma_rasch.pdf) (german).
