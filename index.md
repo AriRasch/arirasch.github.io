@@ -16,3 +16,5 @@ To achieve my goals, I am one of the main designers of a holistic code *Generati
 3. [Host Code Abstraction (HCA)](https://hca-project.org), for *Code Execution* -- a high-level programming abstraction that simplifies implementing and optimizing so-called host code which is required in modern parallel programming approaches (e.g., CUDA and OpenCL) to execute code on the devices of (potentially distributed) multi-device systems.
 
 You can find my CV [here](assets/files/cv_rasch.pdf).
+
+My PhD Thesis is available [here](assets/files/phd_rasch.pdf), and my Diploma Thesis [here](assets/files/diploma_rasch.pdf) (german).
