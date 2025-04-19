@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Ari Rasch"
   avatar           : "/assets/images/headshot.JPG"
-  bio              : "I am working on AI & HPC compilers with the ultimate goal to achieve *Performance* & *Portability* & *Productivity*."
+  bio              : "I am working on AI & HPC compilers with the ultimate goal to achieve: *Performance* & *Portability* & *Productivity*."
   location         : "Münster, Germany"
   email            : a.rasch@uni-muenster.de
   linkedin         : "ari-rasch"
