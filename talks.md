@@ -5,11 +5,15 @@ author_profile: true
 
 # Selected Talks
 
-1.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://roofline.ai) \\
-    *Roofline AI 2025*; *Cologne, Germany*\\
-    <a href="../assets/files/slides/roofline25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/roofline25/slides.pdf)
+1.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations on NVIDIA GPUs](https://developer.nvidia.com/blog/author/vgrover/) \\
+    *NVIDIA Codegen Community Forum 2025*; *online event*\\
+    <a href="../assets/files/slides/nvidia25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/nvidia25/slides.pdf)
 
-2.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://c4ml.org) \\
+2.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://roofline.ai) \\
+    *Roofline AI 2025*; *Cologne, Germany*\\
+    <a href="../assets/files/slides/roofline25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/roofline25/slides.pdf)    
+
+3.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://c4ml.org) \\
     *Compilers for Machine Learning (C4ML 2025)*; *Las Vegas NV, USA*\\
     <a href="../assets/files/slides/c4ml25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/c4ml25/slides.pdf)    
 
