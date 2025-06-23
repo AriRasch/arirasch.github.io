@@ -5,22 +5,25 @@ author_profile: true
 
 # Selected Talks
 
+1.  [(De/Re)-Composition of Array Computations via Multi-Dimensional Homomorphisms + An MDH-Based DSL for Array Computations](http://pldi25.sigplan.org) \\
+    *ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025); Seoul, Korea* \\
+    <a href="../assets/files/slides/pldi25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/pldi25/slides.pdf)
+
 1.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations on NVIDIA GPUs](https://developer.nvidia.com/blog/author/vgrover/) \\
     *NVIDIA Codegen Community Forum 2025*; *online event*\\
-    <a href="../assets/files/slides/nvidia25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/nvidia25/slides.pdf)
+    <a href="../assets/files/slides/nvidia25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/nvidia25/slides.pdf)    
 
-2.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://roofline.ai) \\
+3.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://roofline.ai) \\
     *Roofline AI 2025*; *Cologne, Germany*\\
     <a href="../assets/files/slides/roofline25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/roofline25/slides.pdf)    
 
-3.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://c4ml.org) \\
+4.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations](http://c4ml.org) \\
     *Compilers for Machine Learning (C4ML 2025)*; *Las Vegas NV, USA*\\
     <a href="../assets/files/slides/c4ml25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/c4ml25/slides.pdf)    
 
 3.  [Toward Performance & Portability & Productivity in Parallel Programming: A Holistic Code Generation, Optimization, and Execution Approach for Data-Parallel Computations Targeting Modern Parallel Architectures]() \\
     *Thesis Defense Presentation 2025*; *Münster, Germany*\\
     <a href="../assets/files/slides/phd_defense/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/phd_defense/slides.pdf)
-
 
 4.  [Toward Performance & Portability & Productivity in Parallel Programming](https://sc24.supercomputing.org) \\
     *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2024)*; *Atlanta GA, USA*\\
@@ -36,7 +39,7 @@ author_profile: true
 
 7.  [Code Generation & Optimization for Deep-Learning Computations via Multi-Dimensional Homomorphisms](https://www.c4ml.org) \\
     *Compilers for Machine Learning (C4ML 2024); Edinburgh, Scotland* \\
-    <a href="../assets/files/slides/c4ml24/c4ml24_talk.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/c4ml24/c4ml24_talk.pdf)
+    <a href="../assets/files/slides/c4ml24/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/c4ml24/slides.pdf)
 
 8.  [Array Programming via Multi-Dimensional Homomorphisms](https://pldi23.sigplan.org/home/ARRAY-2023) \\
     *ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2023)*; *Orlando FL, USA*\\
