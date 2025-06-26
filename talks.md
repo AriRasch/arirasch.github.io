@@ -8,6 +8,7 @@ author_profile: true
 1.  [(De/Re)-Composition of Array Computations via Multi-Dimensional Homomorphisms + An MDH-Based DSL for Array Computations](http://pldi25.sigplan.org) \\
     *ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI 2025); Seoul, Korea* \\
     <a href="../assets/files/slides/pldi25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/pldi25/slides.pdf)
+    <a href="https://www.youtube.com/watch?v=7Tr9IKYhdhw"><i class="fas fa-video" style="color: red; font-size: 2em; padding-top: .4em; padding-left: 1em"></i></a> [Talk](https://www.youtube.com/watch?v=7Tr9IKYhdhw)
 
 1.  [MDH+ATF: Code Generation & Optimization for Deep-Learning Computations on NVIDIA GPUs](https://developer.nvidia.com/blog/author/vgrover/) \\
     *NVIDIA Codegen Community Forum 2025*; *online event*\\
