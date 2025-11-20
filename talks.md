@@ -5,6 +5,10 @@ author_profile: true
 
 # Selected Talks
 
+1.  [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://sc25.conference-program.com/presentation/?id=ws_waccpd105&sess=sess218) \\
+    *The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC 2025)*; *St. Louis MO, USA*\\
+    <a href="../assets/files/slides/sc25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/sc25/slides.pdf)    
+
 1.  [Code Generation & Optimization for Data-Parallel Computations via MDH and ATF](http://nextsilicon.com) \\
     *NextSilicon Seminar Series 2025*; *online event*\\
     <a href="../assets/files/slides/nextsilicon25/slides.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Slides](../assets/files/slides/nextsilicon25/slides.pdf)    
