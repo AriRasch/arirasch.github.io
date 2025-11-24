@@ -15,7 +15,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 1.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
     [Scheduling Language Chronology: Past, Present, and Future](https://dl.acm.org/doi/full/10.1145/3743135) \\
     *ACM Transactions on Architecture and Code Optimization (TACO 2025) -- Original research article (no prior conference version)*\\
-    <a href="../assets/files/publications/taco25/paper_2.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/taco25/paper_2.pdf)    
+    <a href="../assets/files/publications/taco25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/taco25/paper.pdf)    
 
 1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [pyATF: Constraint-Based Auto-Tuning in Python](https://dl.acm.org/doi/10.1145/3708493.3712682) \\
