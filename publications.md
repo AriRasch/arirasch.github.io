@@ -131,10 +131,10 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  **A. Rasch**, S. Gorlatch\\
     [Performance, Portability, and Productivity for Data-Parallel Computations on Multi- and Many-Core Architectures](https://sc19.supercomputing.org/proceedings/doctoral_showcase/index.html) \\
-    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2019), (doctoral showcase)*\\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2019), (doctoral showcase)*\\
     <a href="../assets/files/publications/wip_short/sc19/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/wip_short/sc19/paper.pdf)
 
 1.  **A. Rasch**, R. Schulze, S. Gorlatch\\
     [Portable Parallel Performance via Multi-Dimensional Homomorphisms](https://sc18.supercomputing.org/proceedings/tech_poster/) \\
-    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018), (short paper)*\\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018), (short paper)*\\
     <a href="../assets/files/publications/wip_short/sc18/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/wip_short/sc18/paper.pdf)
