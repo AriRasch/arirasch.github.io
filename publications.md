@@ -9,7 +9,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3731599.3767572) \\
-    *Proceedings of the Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops 2025)*\\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops 2025)*\\
     <a href="../assets/files/publications/sc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/sc25/paper.pdf)
 
 1.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
