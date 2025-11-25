@@ -8,8 +8,8 @@ author_profile: true
 You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=njDb_rMAAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
 
 1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
-    [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://sc25.conference-program.com/presentation/?id=ws_waccpd105&sess=sess218) \\
-    *Proceedings of the Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops 2025)*\\
+    [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3731599.3767572) \\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC Workshops 2025)*\\
     <a href="../assets/files/publications/sc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/sc25/paper.pdf)
 
 1.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
@@ -24,7 +24,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  **A. Rasch** \\
     [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
-    *ACM Transactions on Programming Languages and Systems (TOPLAS 2024) -- presented at PLDI’24 conference*\\
+    *ACM Transactions on Programming Languages and Systems (TOPLAS 2024) -- Presented at PLDI’24 conference*\\
     <a href="../assets/files/publications/toplas24/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/toplas24/paper.pdf)
 
 1.  **A. Rasch** \\
@@ -40,7 +40,7 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  **A. Rasch**, R. Schulze, M. Steuwer, S. Gorlatch \\
     [Efficient Auto-Tuning of Parallel Programs With Interdependent Tuning Parameters via Auto-Tuning Framework (ATF)](https://dl.acm.org/doi/abs/10.1145/3427093) \\
-    *ACM Transactions on Architecture and Code Optimization (TACO 2021) -- presented at HiPEAC'21 conference*\\
+    *ACM Transactions on Architecture and Code Optimization (TACO 2021) -- Presented at HiPEAC'21 conference*\\
     <a href="../assets/files/publications/taco21/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/taco21/paper.pdf)
 
 
@@ -131,10 +131,10 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  **A. Rasch**, S. Gorlatch\\
     [Performance, Portability, and Productivity for Data-Parallel Computations on Multi- and Many-Core Architectures](https://sc19.supercomputing.org/proceedings/doctoral_showcase/index.html) \\
-    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2019), (doctoral showcase)*\\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2019), (doctoral showcase)*\\
     <a href="../assets/files/publications/wip_short/sc19/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/wip_short/sc19/paper.pdf)
 
 1.  **A. Rasch**, R. Schulze, S. Gorlatch\\
     [Portable Parallel Performance via Multi-Dimensional Homomorphisms](https://sc18.supercomputing.org/proceedings/tech_poster/) \\
-    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018), (short paper)*\\
+    *International Conference for High Performance Computing, Networking, Storage and Analysis (SC 2018), (short paper)*\\
     <a href="../assets/files/publications/wip_short/sc18/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/wip_short/sc18/paper.pdf)
