@@ -5,7 +5,7 @@ author_profile: true
 
 # Selected Publications
 
-You can find my publications also on my [Google Scholar](https://scholar.google.de/citations?user=njDb_rMAAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
+You can find my publications also on my [Google Scholar](https://scholar.google.com/citations?user=-q-gyO0AAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
 
 1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3731599.3767572) \\
