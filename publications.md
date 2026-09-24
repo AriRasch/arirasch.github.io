@@ -9,35 +9,35 @@ You can find my publications also on my [Google Scholar](https://scholar.google.
 
 1.  R. Schulze, J. Hunloh, L. Hunloh, T. Grosser, **A. Rasch** \\
     [Linalg vs. MDH: Why Reduction Semantics Matter](todo) \\
-    *Twelfth Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)@SC’26 (2026), (to appear)*\\
+    *Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)@SC’26 (2026), (to appear)*\\
     <a href="../assets/files/publications/llvm_hpc/todo.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/llvm_hpc/todo.pdf)
 
-1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
+2.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3731599.3767572) \\
-    *12th Workshop on Accelerator Programming and Directives (WACCPD)@SC’25 (2025)*\\
+    *Workshop on Accelerator Programming and Directives (WACCPD)@SC’25 (2025)*\\
     <a href="../assets/files/publications/sc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/sc25/paper.pdf)
 
-1.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
+3.   M. Hall, C. Oancea, A. Elster, **A. Rasch**, S. Joshi, A. Tavakkoli, R. Schulze \\
     [Scheduling Language Chronology: Past, Present, and Future](https://dl.acm.org/doi/full/10.1145/3743135) \\
     *ACM Transactions on Architecture and Code Optimization (TACO 2025)*\\
-    <a href="../assets/files/publications/taco25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/taco25/paper.pdf)    
+    <a href="../assets/files/publications/taco25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/taco25/paper.pdf)
 
-1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
+4.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [pyATF: Constraint-Based Auto-Tuning in Python](https://dl.acm.org/doi/10.1145/3708493.3712682) \\
     *ACM SIGPLAN International Conference on Compiler Construction (CC 2025)*\\
-    <a href="../assets/files/publications/cc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/cc25/paper.pdf)    
+    <a href="../assets/files/publications/cc25/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/cc25/paper.pdf)
 
-1.  **A. Rasch** \\
+5.  **A. Rasch** \\
     [(De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3665643) \\
     *ACM Transactions on Programming Languages and Systems (TOPLAS 2024) -- Presented at PLDI’24 conference*\\
     <a href="../assets/files/publications/toplas24/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/toplas24/paper.pdf)
 
-1.  **A. Rasch** \\
+6.  **A. Rasch** \\
     [Full Version: (De/Re)-Composition of Data-Parallel Computations via Multi-Dimensional Homomorphisms](https://arxiv.org/abs/2405.05118) \\
     *arXiv 2024*\\
-    <a href="../assets/files/publications/arxiv24/paper_1.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper_1.pdf)    
+    <a href="../assets/files/publications/arxiv24/paper_1.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/arxiv24/paper_1.pdf)
 
-1.  **A. Rasch**, R. Schulze, D. Shabalin, A. Elster, S. Gorlatch, M. Hall \\
+7.  **A. Rasch**, R. Schulze, D. Shabalin, A. Elster, S. Gorlatch, M. Hall \\
     [(De/Re)-Compositions Expressed Systematically via MDH-Based Schedules](https://dl.acm.org/doi/abs/10.1145/3578360.3580269) \\
     *ACM SIGPLAN International Conference on Compiler Construction (CC 2023)*\\
     <a href="../assets/files/publications/cc23/paper.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/cc23/paper.pdf)
