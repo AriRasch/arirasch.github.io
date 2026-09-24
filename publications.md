@@ -8,8 +8,9 @@ author_profile: true
 You can find my publications also on my [Google Scholar](https://scholar.google.com/citations?user=-q-gyO0AAAAJ&hl=en&oi=ao) and [dblp](https://dblp.uni-trier.de/pid/204/7105.html) profiles.
 
 1.  R. Schulze, J. Hunloh, L. Hunloh, T. Grosser, **A. Rasch** \\
-    Linalg vs. MDH: Why Reduction Semantics Matter \\
+    [Linalg vs. MDH: Why Reduction Semantics Matter](todo) \\
     *Twelfth Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)@SC’26 (2026), (to appear)*\\
+    <a href="../assets/files/publications/llvm_hpc/todo.pdf"><i class="fas fa-file-pdf" style="color: red; font-size: 2em; padding-top: .4em"></i></a> [Paper](../assets/files/publications/llvm_hpc/todo.pdf)
 
 1.  R. Schulze, S. Gorlatch, **A. Rasch** \\
     [Reduction-Aware Directive-Based Programming via Multi-Dimensional Homomorphisms](https://dl.acm.org/doi/10.1145/3731599.3767572) \\
